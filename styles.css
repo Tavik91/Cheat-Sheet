@@ -1,0 +1,38 @@
+* {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(166, 170, 146);
+    font-family: 'Helvetica';
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+h2 {
+    color: rgb(10, 200, 100);
+    margin: 20px;
+}
+
+table {
+    font-size: 20px;
+    margin: 0 auto;
+    border: 2px solid rgb(10, 200, 100);
+}
+
+th {
+    background-color: rgba(59, 100, 59, 0.5);
+    padding: 0 5px;
+}
+
+#code {
+    background-color: rgb(59, 100, 59, 0.5)
+}
+
+td,
+tr,
+tbody {
+    border-top: 1px solid rgb(10, 200, 100);
+    padding: 0 5px;
+}
